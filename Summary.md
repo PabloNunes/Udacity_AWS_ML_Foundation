@@ -56,3 +56,18 @@
       - Easier to mantain code
       - Reuse more code
       - Become a better developer
+    - Use Meaningful Names
+      - Be descriptive and imply types:
+        - In booleans use prefix, ```is_``` or ```has_```
+      - Be consistent but differentiate
+      - Don't make names too big
+      - Use whitespace properly
+      - Use PEP 8
+
+  - Writing Modular Code
+    - Use the DRY principle
+    - Abstract the logic to improve readability
+    - Minimize the number of entities
+    - Functions should do one thing
+    - Arbitrary variable names can be more effective in some functions
+    - Try to use fewer than three arguments in a function
